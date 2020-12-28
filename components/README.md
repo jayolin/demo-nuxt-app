@@ -5,3 +5,8 @@
 The components directory contains your Vue.js Components.
 
 _Nuxt.js doesn't supercharge these components._
+
+### Sample folder structure for COMPONENTS
+
+\
+![image of component structure](components.png)

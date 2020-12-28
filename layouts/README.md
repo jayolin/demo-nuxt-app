@@ -5,3 +5,8 @@
 This directory contains your Application Layouts.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/views#layouts).
+
+### Sample folder structure for LAYOUTS
+
+\
+![image for the layout structure](layouts.png)
